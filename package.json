@@ -1,5 +1,5 @@
 {
-  "name": "faiz-api-doc",
+  "name": "Faiz-AI-doc",
   "version": "1.0.0",
   "scripts": {
     "dev": "vuepress dev docs",

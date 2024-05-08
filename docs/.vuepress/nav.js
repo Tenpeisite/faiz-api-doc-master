@@ -7,6 +7,15 @@ module.exports = [
             {text: '快速开始', link: '/pages/793dcb/'},
             {text: '返回响应码', link: '/pages/745dcb/'},
             {
+                text: 'AI接口', items: [
+                    {text: 'AI问答', link: '/pages/1782068311467548674/'},
+                    {text: 'AI画图', link: '/pages/1782070288343687170/'},
+                    {text: '通用文字识别', link: '/pages/1782078188977967106/'},
+                    {text: '身份证识别', link: '/pages/1782081336043950081/'},
+                    {text: 'AI识图', link: '/pages/1782301581111234561/'},
+                ]
+            },
+            {
                 text: 'API接口', items: [
                     {text: '随机毒鸡汤', link: '/pages/1705234447153963010/'},
                     {text: '获取IP信息归属地', link: '/pages/1705239928861827073/'},
