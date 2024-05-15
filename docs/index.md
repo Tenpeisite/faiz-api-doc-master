@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/gif/faiz.png
-heroText: Faiz-AI 开发者文档
+heroText: AI问答开放平台 开发者文档
 tagline: 🚀 简单便捷，助力您的开发之旅
 actionText: 开始使用 →
 actionLink: /pages/a2f161/
@@ -42,8 +42,8 @@ postList: none
     <a href="https://panyw-git.gitee.io/">
     <img alt="Blog" src="https://raster.shields.io/badge/Blog-PanYW-blue.svg"/>
     </a>
- <a href="https://img.shields.io/github/forks/Tenpeisite/Faiz-AI-backend" target="_blank"><img src='https://img.shields.io/github/forks/Tenpeisite/Faiz-AI-backend' alt='GitHub forks' class="no-zoom"></a>
- <a href="https://img.shields.io/github/stars/Tenpeisite/Faiz-AI-backend" target="_blank"><img src='https://img.shields.io/github/stars/Tenpeisite/Faiz-AI-backend' alt='GitHub stars' class="no-zoom"></a>
+ <a href="https://img.shields.io/github/forks/Tenpeisite/AI问答开放平台-backend" target="_blank"><img src='https://img.shields.io/github/forks/Tenpeisite/AI问答开放平台-backend' alt='GitHub forks' class="no-zoom"></a>
+ <a href="https://img.shields.io/github/stars/Tenpeisite/AI问答开放平台-backend" target="_blank"><img src='https://img.shields.io/github/stars/Tenpeisite/AI问答开放平台-backend' alt='GitHub stars' class="no-zoom"></a>
 </p>
 <br/>
 

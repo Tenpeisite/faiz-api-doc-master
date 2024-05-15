@@ -1,5 +1,5 @@
 {
-  "name": "Faiz-AI-doc",
+  "name": "AI问答开放平台-doc",
   "version": "1.0.0",
   "scripts": {
     "dev": "vuepress dev docs",
